@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+installer.iss
+*.exe
+*.msi
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+
+# Environment
+.env
+.env.local
+.env.*.
